@@ -1,6 +1,6 @@
 Year I, semester II: Data structures and algorithms
 
-course two: Queue implemented with vector
+course three: Queue implemented with vector
 
 operations :
 
